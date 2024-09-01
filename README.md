@@ -10,3 +10,6 @@ A documentação completa do projeto, incluindo o backlog das histórias de usu�
 
 - [Download da Documentação Completa (PDF)](https://github.com/arthurcuri/desafio-3-agile/blob/main/AdventureWorks.pdf)
 
+## Contato
+
+Arthur Curi Kramberger - [arthur1curi@gmail.com](mailto:arthur1curi@gmail.com)
